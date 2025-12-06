@@ -29,4 +29,4 @@ Start the mysql service, Open Navicat, connect to MySQL and select phms.sql, the
 Find the com.phms.PhmsApp class and Run PhmsApp.main().
 (4)Visit the project
 After successful startup, visit in your browser:
-http://localhost:8080
+http://localhost:8086
